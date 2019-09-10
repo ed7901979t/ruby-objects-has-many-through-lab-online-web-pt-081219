@@ -26,3 +26,4 @@ class Appointment
   end
 
 end
+end
